@@ -11,3 +11,18 @@ button a {
   text-decoration: none;
   color: black;
 }
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.main-title {
+  text-align: center;
+  background-image: url("images/wallpaper.jpeg");
+}
+
+.main-title-p {
+  text-align: center;
+}
